@@ -1,6 +1,6 @@
 # 发布养鱼
 
-当前版本为 **0.2.0**，源码已提交到 [YKY0521/dsh-yangyu](https://github.com/YKY0521/dsh-yangyu)。本文是维护者操作说明；npm 发布和插件市场收录尚未完成，`dsh-yangyu` 的 npm 名称占用情况尚未核查。作者与仓库信息已填入 `package.json`。
+当前版本为 **0.2.0**，源码与 Release 已发布到 [YKY0521/dsh-yangyu](https://github.com/YKY0521/dsh-yangyu)。插件市场收录申请 [#12324](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/12324) 已于 2026-11-05 提交，当前仍待审核，不代表市场已收录。本文是维护者操作说明；npm 尚未发布，`dsh-yangyu` 的 npm 名称占用情况尚未核查。作者与仓库信息已填入 `package.json`。
 
 ## 发布前确认
 

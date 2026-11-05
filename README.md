@@ -2,7 +2,7 @@
 
 给 DeepSeek Harness 增加一个「养鱼」入口：创建多位陪伴角色，填写或留空人设，在各自的聊天中积累独立记忆，也可以从「出游」页扫码连接微信和 QQ。
 
-当前版本为 **0.2.0**。源码仓库为 [YKY0521/dsh-yangyu](https://github.com/YKY0521/dsh-yangyu)。尚未发布到 npm 或被插件市场收录；npm 包名是否可用仍待确认。
+当前版本为 **0.2.0**。源码仓库为 [YKY0521/dsh-yangyu](https://github.com/YKY0521/dsh-yangyu)，安装包见 [GitHub Release](https://github.com/YKY0521/dsh-yangyu/releases/tag/v0.2.0)。插件市场收录申请 [#12324](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin/pull/12324) 已提交，等待审核；尚未发布到 npm，包名是否可用仍待确认。
 
 ## 可以做什么
 
