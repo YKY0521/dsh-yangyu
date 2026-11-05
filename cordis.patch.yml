@@ -1,0 +1,5 @@
+- insert:
+    - id: yangyu
+      name: dsh-yangyu
+      config:
+        enabled: true
