@@ -1,6 +1,15 @@
 {
   "name": "dsh-yangyu",
   "version": "0.2.0",
+  "author": "YKY0521",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YKY0521/dsh-yangyu.git"
+  },
+  "homepage": "https://github.com/YKY0521/dsh-yangyu#readme",
+  "bugs": {
+    "url": "https://github.com/YKY0521/dsh-yangyu/issues"
+  },
   "description": "养鱼：多角色陪伴与独立记忆，支持微信／QQ扫码出游、私聊回复与二维码刷新。",
   "type": "module",
   "main": "lib/index.js",
